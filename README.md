@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Ludzart
 - 👀 I’m interested in web development and getting my first job on it, especially in front end.
-- 🌱 I’m currently learning JavaScript libraries and about ux.
+- 🌱 I’m currently learning React and Wordpress.
 - 💞️ I’m looking to collaborate on any project in the area of front end.
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+https://www.linkedin.com/in/bautsom/
+instagram.com/bautsom
+
+
 
 
 <!---
