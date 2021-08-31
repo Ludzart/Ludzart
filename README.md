@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ludzart
+- 👋 Hi, I’m @Ludzart  / Bautista Somaschini
 - 👀 I’m interested in web development and getting my first job on it, especially in front end.
 - 🌱 I’m currently learning React and Wordpress.
 - 💞️ I’m looking to collaborate on any project in the area of front end.
